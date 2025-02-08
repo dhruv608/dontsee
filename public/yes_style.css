@@ -21,18 +21,3 @@ body {
     justify-content: center;
     align-items: center;
 }
-@media only screen and (orientation:portrait) {
-    .gif_container img
-    {
-/* width: 900px; */
-height: 1000px;
-    }
-    .container{
-        margin-top: 700px;
-    }
-    .header_text{
-        font-size: 120px;
-        color: red;
-        font-weight: bolder;
-    }
-}
