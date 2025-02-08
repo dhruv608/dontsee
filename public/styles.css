@@ -82,7 +82,8 @@ body {
 
     .header_text {
         font-size: 28px;
-        margin-left: 15px;
+        margin-left: 20px;
+        color: red;
     }
 
     img {
